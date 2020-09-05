@@ -16,3 +16,8 @@ $ docker-compose up -d
 http://localhost:5000  
 http://localhost:5000/hello/{xxx}
 
+### コンテナ停止
+```sh
+$ docker-compose stop
+```
+
